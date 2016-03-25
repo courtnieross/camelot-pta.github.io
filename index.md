@@ -3,7 +3,7 @@ layout: default
 title: Camelot-pta.GitHub.io by camelot-pta
 ---
 
-# Welcome to the CamelotPTA Website
+# Welcome
 
 ## Key Information
 
