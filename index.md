@@ -4,7 +4,6 @@ title: Camelot-pta.GitHub.io by camelot-pta
 ---
 
 # Welcome to the CamelotPTA Website
-    * Making a Difference *
 
 ## Key Information
 
