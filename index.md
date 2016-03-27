@@ -13,6 +13,8 @@ title: Camelot PTA
 
     * Main Office: 703 645 7000
 
+    * <a href="https://drive.google.com/file/d/0B08CHuPjOEKWdXBvVHg5UFNuYlE/view">Parent Info</a>
+
 ## Have Questions
 
 Figuring out a new school and new school system can be a daunting task. Please feel free to reach out and ask us a question about Camelot Elementary School or the Fairfax County Public School system. We will do our best to point you in the right direction.
