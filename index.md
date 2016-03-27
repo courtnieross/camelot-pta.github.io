@@ -26,3 +26,5 @@ If you don’t see the question and answer you’re looking for below, please <a
 * [How do I get involved?]({{site.url}}/participate)
 
 * [How do I sign up?]({{site.url}}/sign-up)
+
+Also join our [Facebook Page](http://www.facebook.com/camelotpta)!
