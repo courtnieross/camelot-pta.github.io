@@ -21,6 +21,8 @@ If you don’t see the question and answer you’re looking for below, please <a
 
     * [What does the PTA do for Camelot?](http://camelot-pta.github.io/pta)
 
+    * [PTA](/pta/)
+
     * [How do I get involved?](http://camelot-pta.github.io/sign-up)
 
     * Are all the PTA events about raising money for the school?
