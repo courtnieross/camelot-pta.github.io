@@ -1,2 +1,15 @@
 kramdown:
   input: GFM
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+analytics :
+  provider : google
+  google : 
+      tracking_id : 'UA-75321534-2'
