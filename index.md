@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Camelot-pta.GitHub.io by camelot-pta
+title: Camelot PTA
 ---
 
 # Welcome
