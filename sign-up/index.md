@@ -17,8 +17,8 @@ We currently offer two membership choices:
         <ul>
             <li>1 coupon for free food at McDonald’s</li>
             <li>5 free Bingo Cards</li>
-            <li>Discounts on Camelot Spiritwear</li><
-        /ul>
+            <li>Discounts on Camelot Spiritwear</li>
+        </ul>
     </td>
 
     <td>
