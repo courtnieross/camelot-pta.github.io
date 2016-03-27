@@ -27,7 +27,7 @@ If you don’t see the question and answer you’re looking for below, please <a
 
     * Are all the PTA events about raising money for the school?
 
-[The PTA](/pta/)
+    * [The PTA](/pta/)
 
-[Our PTA]({{ site.url }})
+    * [Our PTA]({{ site.url }})
 
