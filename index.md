@@ -11,11 +11,11 @@ title: Camelot PTA
     * Absentee Line: 703 645 7011
 
 ### Parent Info
-* [New Student Handbook](https://drive.google.com/file/d/0B08CHuPjOEKWdXBvVHg5UFNuYlE/view)
+* [Student Handbook](https://drive.google.com/file/d/0B08CHuPjOEKWdXBvVHg5UFNuYlE/view)
 * [PTA Minutes](https://drive.google.com/folderview?id=0B08CHuPjOEKWRndSNDQ5V1BPS2c&usp=sharing)
 
 #### Social Media
-* [Facebook](http://www.facebook.com/camelotpta)!
+* [Facebook](http://www.facebook.com/camelotpta)
 * [Twitter](http://twitter.com/camelotPTA)
 * [Calendar](https://calendar.google.com/calendar/embed?src=camelot.elementary.pta%40gmail.com&ctz=America/New_York)
 
