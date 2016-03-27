@@ -75,4 +75,4 @@ Includes:
                 </tbody>
                 </table>
 
-<a href-"http://www.camelotpta.org/pta/pta-board-and-committees/">List of current board  members, committee chairs, and a detailed description of committee activities.</a>
+<a href="http://www.camelotpta.org/pta/pta-board-and-committees/">List of current board  members, committee chairs, and a detailed description of committee activities.</a>
