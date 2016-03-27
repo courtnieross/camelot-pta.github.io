@@ -35,4 +35,4 @@ If you don’t see the question and answer you’re looking for below, please <a
 
 * [How do I sign up?](/sign-up)
 
-Please join our [Facebook Page](http://www.facebook.com/camelotpta)!
+**Please join our [Facebook Page](http://www.facebook.com/camelotpta)!**
