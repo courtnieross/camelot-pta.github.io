@@ -6,14 +6,18 @@ title: Camelot PTA
 # Welcome
 
 ## Key Information
-
     * Address: 8100 Guinevere Dr, Annandale, VA 22003
-
+    * Main Office: 703 645 7000
     * Absentee Line: 703 645 7011
 
-    * Main Office: 703 645 7000
+### Parent Info
+* [New Student Handbook](https://drive.google.com/file/d/0B08CHuPjOEKWdXBvVHg5UFNuYlE/view)
+* [PTA Minutes](https://drive.google.com/folderview?id=0B08CHuPjOEKWRndSNDQ5V1BPS2c&usp=sharing)
 
-### <a href="https://drive.google.com/file/d/0B08CHuPjOEKWdXBvVHg5UFNuYlE/view">Parent Info</a>
+#### Social Media
+* [Facebook](http://www.facebook.com/camelotpta)!
+* [Twitter](http://twitter.com/camelotPTA)
+* [Calendar](https://calendar.google.com/calendar/embed?src=camelot.elementary.pta%40gmail.com&ctz=America/New_York)
 
 ## Have Questions
 
@@ -25,8 +29,8 @@ If you don’t see the question and answer you’re looking for below, please <a
 
 * [What types of events doe the PTA Host?](/events)
 
-* [How do I get involved?]({{site.url}}/participate)
+* [How do I get involved?](/participate)
 
-* [How do I sign up?]({{site.url}}/sign-up)
+* [How do I sign up?](/sign-up)
 
-Also join our [Facebook Page](http://www.facebook.com/camelotpta)!
+Please join our [Facebook Page](http://www.facebook.com/camelotpta)!
