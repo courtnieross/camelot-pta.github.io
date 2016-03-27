@@ -26,3 +26,8 @@ If you don’t see the question and answer you’re looking for below, please <a
     * [How do I get involved?](http://camelot-pta.github.io/sign-up)
 
     * Are all the PTA events about raising money for the school?
+
+[The PTA](/pta/)
+
+[Our PTA]({{ site.url }})
+
