@@ -19,6 +19,6 @@ Figuring out a new school and new school system can be a daunting task. Please f
 
 If you don’t see the question and answer you’re looking for below, please <a href="mailto:webmaster@camelotpta.org?Subject=Website%20Question">ask us</a>!
 
-[What does the PTA do for Camelot?](/pta)
+    * [What does the PTA do for Camelot?](/pta)
 
-[How do I get involved?]({{ site.url/sign-up }})
+[How do I get involved?]({{site.url}}/sign-up)
