@@ -23,6 +23,8 @@ Some of the ways we support our school and children:
 
 It is an ongoing [involvement](/participate) where the more of us that are involved the more we can get done!
 
+Check out [our leadership](/board-and-committees).
+
 ## Membership and Funraising
 
 Money is raised through membership dues and fundraising events held throughout the school year. 
