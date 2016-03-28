@@ -10,7 +10,7 @@ defaults:
       layout: "default"
       analytics : true
 
-analytics :
-  provider : google
-  google : 
+analytics:
+  provider: google
+  google: 
       tracking_id : 'UA-75321534-2'
