@@ -17,7 +17,7 @@ Membership Options
 | Camelot Flame | $200 | **tax deductable**, includes 20 bingo cards |
 
 
-
+<br>
 In order to complete registration, the following information will need to be collected:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -33,8 +33,8 @@ In order to complete registration, the following information will need to be col
             <option value="Flame">Flame $200.00 USD</option> 
         </select>
     <br>
-<!--
     <input type="text" name="on1" value="name">Your Name<br>
+<!--
     <input type="text" name="on2" value="Phone Number">Phone Number<br>
     <input type="text" name="on3" value="email">Email Address<br>
     <input type="text" name="on4" value="Student name(s)">Student name(s)<br>
@@ -49,5 +49,5 @@ In order to complete registration, the following information will need to be col
 </form>
 
 
-
+<br>
 To join and pay by check, please print and use [this PTA Membership form](https://docs.google.com/document/d/1nuulwGuzFHrG40YHDnyjzs-Ckt0Ofa_FSAqiCGAcONw/edit).
