@@ -18,14 +18,12 @@ Joining the PTA isn't just about the membership fee that gets you a year’s wor
 
 ## Leadership
 
-Leadership: Would like the Board listed separately and then all of the Committee Chairs. I didn’t mind how they had pictures for the Leaders in the table format, what do you think
-
-President: Alana Cober
-Vice President: Membership and Education- Courtnie Ross
-Vice President: Ways and Means - Becky Heironimus
-Vice President: Social - Stacey Ferris
-Secretary: Christina Bass
-Treasurer: Nancy Montalvo
+* President: Alana Cober
+* Vice President: Membership and Education- Courtnie Ross
+* Vice President: Ways and Means - Becky Heironimus
+* Vice President: Social - Stacey Ferris
+* Secretary: Christina Bass
+* Treasurer: Nancy Montalvo
 
 Here is the current [Board and Committee list](https://docs.google.com/document/d/1pFvn3beiroFeJCT0jct_GjDbyLMFTwKA8kZmMLkNiKI/edit?usp=sharing)
 
