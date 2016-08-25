@@ -11,11 +11,11 @@ Do you want your child to get the most out of school? Lead by example and join t
 
 There are many advantages to becoming a PTA member:
 
-  * Having a Voice - you will have input on what events and programs the PTA sponsors
+  * **Having a Voice** - you will have input on what events and programs the PTA sponsors
 
-  * Being a Role Model - show your child the importance you place on education
+  * **Being a Role Model** - show your child the importance you place on education
 
-  * Enjoying Membership Benefits - you can receive discounts on macazine subscriptions, hotels, resturants, travel, and leadership training
+  * **Enjoying Membership Benefits** - you can receive discounts on macazine subscriptions, hotels, resturants, travel, and leadership training
 
 Joining the PTA isn't just about the membership fee that gets you a year’s worth of social events, information, and access to state and national PTA programs and benefits. 
 
