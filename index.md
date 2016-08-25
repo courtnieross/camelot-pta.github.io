@@ -30,6 +30,13 @@ Joining the PTA isn't just about the membership fee that gets you a year’s wor
   * [FCPS Website](http://www.fcps.edu/CamelotES/)
   * [Student Handbook](https://drive.google.com/file/d/0B08CHuPjOEKWdXBvVHg5UFNuYlE/view)
   * [PTA Minutes](https://drive.google.com/folderview?id=0B08CHuPjOEKWRndSNDQ5V1BPS2c&usp=sharing)
+  * Membership Directory: **Coming soon**
+  * [National PTA](http://www.pta.org)
+  * [VA PTA](http://vapta.org)
+  * Amazon Smile Account: It just got even easier to help Camelot with your Amazon purchases. Go to [Amazon Smile](http://smile.amazon.com) and select the "Supporting" link at the very top. 
+     * Search for "Camelot Elementary School PTA" and select. Make sure you select the one in Annandale, VA. 
+     * Once you set this up, you will be reminded on your Amazon purchases or shop directly from the Amazon Smiles site. You can also use this [link](http://www.amazon.com/?&tag=capt076-20&ref-refURL=http%3A%2F%2Fwww.camelotpta.org%2F) for shopping
+
 
 #### Social Media
   * [Facebook](http://www.facebook.com/camelotpta)
