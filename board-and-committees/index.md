@@ -26,7 +26,7 @@ That membership fee is a token of your commitment to your children and school. Y
 ## Leadership
 
 * President: Alana Cober
-* Vice President: Membership and Education- Courtnie Ross
+* Vice President: Membership and Education - Courtnie Ross
 * Vice President: Ways and Means - Becky Heironimus
 * Vice President: Social - Stacey Ferris
 * Secretary: Christina Bass
