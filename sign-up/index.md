@@ -23,7 +23,7 @@ In order to complete registration, the following information will need to be col
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="charset" value="utf-8">
-    <input type="hidden" name="hosted_button_id" value="DYLWUWBYDNBR6">
+    <input type="hidden" name="hosted_button_id" value="">
     <input type="hidden" name="currency_code" value="USD">
     <input type="hidden" name="on0" value="Members">Membership Level<br>
         <select name="os0">
