@@ -7,21 +7,26 @@ title: Events
 
 ## Community Building
 
-We have several community-focused events that are free or break even to allow all our families to participate.
+We have several community-focused events that are free or ask for a nominal fee in order to cover costs to allow all our families to participate.
 
-* Our first event of the year is the ice cream social. International night is completely free for our families and donates food items and volunteers who provide entertainment make it a fun-filled evening.  
+Our first event of the year is the ice cream social. This event is a perfect time to meet new friends, teachers and enjoy free ice cream!
 
-* Field day is run by PTA volunteers and provides all the kids an opportunity to participate during one exciting day in the sprint. 
+The Fall Festival is a fun even filled with hay rides, face painting, arts and crafts and all things that make celebrating the fall a great time of year. Lots of volunteers make this event a fun time for all ages.
 
-* We also sponsor educational programs that have fees that just cover your child’s registration. They include the FLEX language programs, pottery, and drama programs. 
-    * They run as before or after school programs that occur once an week over a period of several months. We hope to expand these and are always looking for new ideas.
+International night is wonderful event celebrating the diversity of our school community. Moved to the fall this year, this completely free event is enhanced through home cooked food celebrating the rich cultures of Camelot. Volunteers provide amazing entertainment to make it a fun-filled evening.
+
+We also sponsor educational programs that have fees that just cover your child’s registration. Classes have included guitar, keyboard, drama and other programs to enrich our students learning. Classes run typically after school and occur once a week over a period of several months. We hope to expand these and are always looking for new ideas.
+
+The PTA also runs an after school Cheer Program for both girls and boys to learn basic cheerleading skills. For a small fee, all participants receive a Camelot Cheer t-shirt and perform in several of our community building and fundraising events with a final performance at the Parent Teacher Basketball Game.
 
 ## Fund Raising
 
-In addition to hosting activities to build community, we also raise money through several significant events including:
-
+Camelot PTA cannot accomplish all of the activities to build community and support our school without raising  money through several significant events including:
+* Fun Run
 * Bingo Night
-
 * Silent Auction
+* Parent Teacher Basketball Game and
+* Restaurant Nights
+
 
 If you have fundraising or community ideas please <a href="mailto:webmaster@camelotpta.org?Subject=Event%20Idea">contact us</a>!

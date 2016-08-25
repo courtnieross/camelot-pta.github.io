@@ -5,6 +5,11 @@ title: Camelot PTA
 
 # Welcome
 
+## Key Information
+    * Address: 8100 Guinevere Dr, Annandale, VA 22003
+    * Main Office: 703 645 7000
+    * Absentee Line: 703 645 7011
+
 ## About Camelot PTA
 
 The Camelot Parent Teacher Association (PTA) is a non-profit volunteer organization that supports the Camelot Elementary School. The PTA's mission is to make every child’s potential a reality by engaging and empowering families and communities to advocate for all children. 
@@ -38,39 +43,6 @@ There are many advantages to becoming a PTA member:
 Joining the PTA isn't just about the membership fee that gets you a year’s worth of social events, information, and access to state and national PTA programs and benefits. That membership fee is a token of your commitment to your children and school. Your voice counts because our PTA members decide what events, activities, and programs we sponsor and how best to support our Camelot community. 
 
 **[Become a member of the PTA today!](/sign-up)**
-
-## Community Building
-
-We have several community-focused events that are free or ask for a nominal fee in order to cover costs to allow all our families to participate.
-
-Our first event of the year is the ice cream social. This event is a perfect time to meet new friends, teachers and enjoy free ice cream!
-
-The Fall Festival is a fun even filled with hay rides, face painting, arts and crafts and all things that make celebrating the fall a great time of year. Lots of volunteers make this event a fun time for all ages. 
-
-International night is wonderful event celebrating the diversity of our school community. Moved to the fall this year, this completely free event is enhanced through home cooked food celebrating the rich cultures of Camelot. Volunteers provide amazing entertainment to make it a fun-filled evening.
-
-We also sponsor educational programs that have fees that just cover your child’s registration. Classes have included guitar, keyboard, drama and other programs to enrich our students learning. Classes run typically after school and occur once a week over a period of several months. We hope to expand these and are always looking for new ideas.
-
-The PTA also runs an after school Cheer Program for both girls and boys to learn basic cheerleading skills. For a small fee, all participants receive a Camelot Cheer t-shirt and perform in several of our community building and fundraising events with a final performance at the Parent Teacher Basketball Game.
-
-## Fund Raising
-
-Camelot PTA cannot accomplish all of the activities to build community and support our school without raising money through several significant events including:
-* Fun Run
-* Bingo Night
-* Silent Auction
-* Parent Teacher Basketball Game and
-* Restaurant Nights
-
-If you have fundraising or community ideas please <a href="mailto:webmaster@camelotpta.org?Subject=Website%20Question">contact us</a>!
-
-## Getting Involved
-
-* Come to our monthly PTA meetings, scheduled the last Tuesday of every month during the school year at 7PM in the library and hear about the upcoming events and opportunities to get involved. The Principal will give us the latest news and we will review community and legislative highlights too. It’s a great way to stay up to date with the latest information regarding our school. 
-
-* Read the minutes from those meetings posted on the PTA website so you can stay on top of current events if you can’t make it to the meetings.
-
-* Watch for volunteer opportunities at social events, classroom support or community activities. Contact an event coordinator and ask how you can help. They will always have a place for you!
 
 -----------------------------
 
