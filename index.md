@@ -3,6 +3,7 @@ layout: default
 title: Camelot PTA
 ---
 
+
 # Welcome
 
 ## Key Information
@@ -10,7 +11,7 @@ title: Camelot PTA
     * Main Office: 703 645 7000
     * Absentee Line: 703 645 7011
 
-## Membership: YOU ARE THE PTA! 
+## Membership: YOU ARE THE PTA!
 
 Do you want your child to get the most out of school? Lead by example and join the Camelot Elementary PTA. Camelot enjoys a diverse population both at our school and in the surrounding community. This variety adds depth to our multicultural celebrations and to our children's education. Become a member and be active in your child's education at the local state and national level.
 
@@ -26,13 +27,13 @@ Joining the PTA isn't just about the membership fee that gets you a year’s wor
 -----------------------------
 
 ### Parent Info
-* [FCPS Website](http://www.fcps.edu/CamelotES/)
-* [Student Handbook](https://drive.google.com/file/d/0B08CHuPjOEKWdXBvVHg5UFNuYlE/view)
-* [PTA Minutes](https://drive.google.com/folderview?id=0B08CHuPjOEKWRndSNDQ5V1BPS2c&usp=sharing)
+  * [FCPS Website](http://www.fcps.edu/CamelotES/)
+  * [Student Handbook](https://drive.google.com/file/d/0B08CHuPjOEKWdXBvVHg5UFNuYlE/view)
+  * [PTA Minutes](https://drive.google.com/folderview?id=0B08CHuPjOEKWRndSNDQ5V1BPS2c&usp=sharing)
 
 #### Social Media
-* [Facebook](http://www.facebook.com/camelotpta)
-* [Twitter](http://twitter.com/camelotPTA)
-* [Calendar](https://calendar.google.com/calendar/embed?src=camelot.elementary.pta%40gmail.com&ctz=America/New_York)
+  * [Facebook](http://www.facebook.com/camelotpta)
+  * [Twitter](http://twitter.com/camelotPTA)
+  * [Calendar](https://calendar.google.com/calendar/embed?src=camelot.elementary.pta%40gmail.com&ctz=America/New_York)
 
 **Please join our [Facebook Page](http://www.facebook.com/camelotpta)!**
