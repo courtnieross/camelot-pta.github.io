@@ -3,7 +3,6 @@ layout: default
 title: Camelot PTA
 ---
 
-
 # Welcome
 
 ## Key Information
