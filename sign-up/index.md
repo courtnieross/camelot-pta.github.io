@@ -10,7 +10,7 @@ title: SignUp
 Membership Options
 
 | Level | Cost | Benefits |
-|------|:----:|:---------|
+|------|:----:|-----------|
 | Blue  |  $10 |          |
 | White |  $20 | includes 10 bingo cards |
 | Dragon | $40 | includes 20 bingo cards |
