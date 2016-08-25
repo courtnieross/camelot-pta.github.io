@@ -7,95 +7,56 @@ title: SignUp
 
 ## Membership
 
-We currently offer two membership choices:
+Membership Options
 
-<table>
-<tbody>
-<tr>
-    <td valign="top">REGULAR MEMBERSHIP $7 (per person)
-        Includes: 
-        <ul>
-            <li>1 coupon for free food at McDonald’s</li>
-            <li>5 free Bingo Cards</li>
-            <li>Discounts on Camelot Spiritwear</li>
-        </ul>
-    </td>
+| Level | Cost | Benefits |
+|------|-----:|----------|
+| Blue  |  $10 |          |
+| White |  $20 | includes 10 bingo cards |
+| Dragon | $40 | includes 20 bingo cards |
+| Camelot Flame | $200 | **tax deductable**, includes 20 bingo cards |
 
-    <td>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="DYLWUWBYDNBR6">
+In order to complete registration, the following information will need to be collected:
 
-        <table>
-        <tr><td>
-            <input type="hidden" name="on0" value="Members">Regular Membership<br>
-            <select name="os0">
-                <option value="1 Member">1 Member$7.00 USD</option>
-                <option value="2 Members">2 Members$14.00 USD</option>
-            </select> 
-        </td></tr>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name=“charset” value=“utf-8”>
+    <input type="hidden" name="hosted_button_id" value="DYLWUWBYDNBR6">
+    <input type="hidden" name="currency_code" value="USD">
+    <input type="hidden" name="on0" value="Members">Membership Level<br>
+        <select name="os0">
+            <option value=“Blue”>Blue $10.00 USD</option>
+            <option value=“White”>White $20.00 USD</option> 
+            <option value=“Dragon”>Dragon $40.00 USD</option> 
+            <option value=“Flame”>Flame $200.00 USD</option> 
+        </select>
 
-        <tr><td>
-            <input type="hidden" name="on1" value="Student name(s)">Student name(s)<br><input type="text" name="os1" maxlength="200">
-        </td></tr>
-        <tr><td>
-            <input type="hidden" name="on2" value="Teacher name(s)">Teacher name(s)<br><input type="text" name="os2" maxlength="200">
-        </td></tr>
-        </table>
+    <input type="hidden" name="on1" value=“name”>Your Name<br>
+    <input type="text"   name="os1" maxlength="200">
 
-        <input type="hidden" name="currency_code" value="USD">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
-    </td>
-</tr>
+    <input type="hidden" name="on2” value=“Phone Number">Phone Number<br>
+    <input type="text"   name="os2” maxlength="200">
 
-<tr>
-    <td valign="top">PATRON MEMBERSHIP $40 (for a couple or family)
-        Includes: 
-        <ul>
-            <li>1 coupon for free food at McDonald’s</li>
-            <li>15 free Bingo Cards</li>
-            <li>Discounts on Camelot Spiritwear</li>
-            <li>Recognition in the Camelot Directory (must sign up by Oct. 1st)</li>
-            <li>Your choice of a free Camelot Dragons window cling/sticker or a plastic tumbler cup</li>
-        </ul>
-    </td>
+    <input type="hidden" name="on3” value=“email">Email Address<br>
+    <input type="text"   name="os3” maxlength="200">
 
-    <td>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="L3V55X68N9NXY">
+    <input type="hidden" name="on4” value="Student name(s)">Student name(s)<br>
+    <input type="text"   name="os4” maxlength="200">
+  
+    <input type="hidden" name="on5” value="Teacher name(s)">Teacher name(s)<br>
+    <input type="text"   name="os5” maxlength="200">
 
-        <table>
-        <tr><td>
-            <input type="hidden" name="on0" value="Patron Membership">Patron Membership<br>
-            <select name="os0">
-                <option value="Patron Member - Window Sticker">Patron Member - Window Sticker$40.00 USD</option>
-                <option value="Patron Member - Tumbler Cup">Patron Member - Tumbler Cup$40.00 USD</option>
-            </select>
-        </td></tr>
+    <input type="hidden" name="on6” value=“Receipt”>Request Receipt for tax purposes<br>
+    <input type=“checkbox” name="os6”>
 
-        <tr><td>
-            <input type="hidden" name="on1" value="Student name(s)">Student name(s)<br><input type="text" name="os1" maxlength="200">
-        </td></tr>
-        <tr><td>
-            <input type="hidden" name="on2" value="Teacher name(s)">Teacher name(s)<br><input type="text" name="os2" maxlength="200">
-        </td></tr>
-        </table>
+    <input type="hidden" name="on6” value=“Volunteer”>Contact me for volunteer opportunities<br>
+    <input type=“checkbox” name="os6”>
 
-        <input type="hidden" name="currency_code" value="USD">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
-    </td>
-</tr>
+    <input type="hidden" name="on6” value=“Contact”>Contact me for backing/donating food activities<br>
+    <input type=“checkbox” name="os6”>
 
-<tr>
-    <td colspan="2">To join and pay by check, please use <a title="PTA member form" href="https://docs.google.com/document/d/1nuulwGuzFHrG40YHDnyjzs-Ckt0Ofa_FSAqiCGAcONw/edit" target="_blank">this printable form</a>.</td>
-</tr>
-
-</tbody>
-</table>
-
-
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0"  name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+  
+To join and pay by check, please print and use [this PTA Membership form](https://docs.google.com/document/d/1nuulwGuzFHrG40YHDnyjzs-Ckt0Ofa_FSAqiCGAcONw/edit).
