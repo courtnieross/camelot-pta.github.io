@@ -24,6 +24,18 @@ Joining the PTA isn't just about the membership fee that gets you a year’s wor
 
 **[Become a member of the PTA today!](/sign-up)**
 
+## Have Questions
+
+Figuring out a new school and new school system can be a daunting task. Please feel free to reach out and ask us a question about Camelot Elementary School or the Fairfax County Public School system. We will do our best to point you in the right direction.
+
+  * [What does the PTA do for Camelot?](/pta)
+  * [What types of events doe the PTA Host?](/events)
+  * [How do I get involved?](/participate)
+  * [How do I sign up?](/sign-up)
+  * [Who is on the leadership team?](/board-and-committees).
+
+If you don’t see the question and answer you’re looking for below, please <a href="mailto:webmaster@camelotpta.org?Subject=Website%20Question">ask us</a>!
+
 -----------------------------
 
 ### Parent Info
