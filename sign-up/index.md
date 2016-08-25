@@ -10,7 +10,7 @@ title: SignUp
 Membership Options
 
 | Level | Cost | Benefits |
-|------|:----:|----------|
+|------|:----:|:---------|
 | Blue  |  $10 |          |
 | White |  $20 | includes 10 bingo cards |
 | Dragon | $40 | includes 20 bingo cards |
@@ -38,11 +38,9 @@ In order to complete registration, the following information will need to be col
     <input type="text" name="on3" value="email">Email Address<br>
     <input type="text" name="on4" value="Student name(s)">Student name(s)<br>
     <input type="text" name="on5" value="Teacher name(s)">Teacher name(s)<br>
-<!--
     <input type="checkbox" name="on6" value="Receipt">Request Receipt for tax purposes<br>
     <input type="checkbox" name="on6" value="Volunteer">Contact me for volunteer opportunities<br>
     <input type="checkbox" name="on6" value="Contact">Contact me for backing/donating food activities<br>
-//-->
 
     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0"  name="submit" alt="PayPal - The safer, easier way to pay online!">
     <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
