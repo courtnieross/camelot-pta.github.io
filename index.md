@@ -21,7 +21,9 @@ There are many advantages to becoming a PTA member:
   * Being a Role Model - show your child the importance you place on education
   * Enjoying Membership Benefits - you can receive discounts on macazine subscriptions, hotels, resturants, travel, and leadership training
 
-Joining the PTA isn't just about the membership fee that gets you a year’s worth of social events, information, and access to state and national PTA programs and benefits. That membership fee is a token of your commitment to your children and school. Your voice counts because our PTA members decide what events, activities, and programs we sponsor and how best to support our Camelot community. 
+Joining the PTA isn't just about the membership fee that gets you a year’s worth of social events, information, and access to state and national PTA programs and benefits. 
+
+That membership fee is a token of your commitment to your children and school. Your voice counts because our PTA members decide what events, activities, and programs we sponsor and how best to support our Camelot community. 
 
 **[Become a member of the PTA today!](/sign-up)**
 
@@ -46,7 +48,8 @@ If you don’t see the question and answer you’re looking for below, please <a
   * Membership Directory: **Coming soon**
   * [National PTA](http://www.pta.org)
   * [VA PTA](http://vapta.org)
-  * Amazon Smile Account: It just got even easier to help Camelot with your Amazon purchases. Go to [Amazon Smile](http://smile.amazon.com) and select the "Supporting" link at the very top. 
+  * [Amazon Smile Account](http://smile.amazon.com) 
+     * It just got even easier to help Camelot with your Amazon purchases, follow the link and select the "Supporting" link at the very top. 
      * Search for "Camelot Elementary School PTA" and select. Make sure you select the one in Annandale, VA. 
      * Once you set this up, you will be reminded on your Amazon purchases or shop directly from the Amazon Smiles site. You can also use this [link](http://www.amazon.com/?&tag=capt076-20&ref-refURL=http%3A%2F%2Fwww.camelotpta.org%2F) for shopping
 
