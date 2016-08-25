@@ -24,6 +24,8 @@ Figuring out a new school and new school system can be a daunting task. Please f
 
 If you don’t see the question and answer you’re looking for below, please <a href="mailto:webmaster@camelotpta.org?Subject=Website%20Question">ask us</a>!
 
+---
+
 ### Parent Info
   * [FCPS Website](http://www.fcps.edu/CamelotES/)
   * [Student Handbook](https://drive.google.com/file/d/0B08CHuPjOEKWdXBvVHg5UFNuYlE/view)
