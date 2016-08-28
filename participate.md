@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Involvement
+title: Participate
 ---
 
 ## Get Involved
