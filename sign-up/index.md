@@ -3,7 +3,7 @@ layout: default
 title: SignUp
 ---
 
-# Membership
+## Membership
 
 **Camelot Elementary is better... with You!**
 
@@ -13,7 +13,7 @@ But the PTA is about more than just activities and programs. By joining the Came
 
 Your PTA membership card also gives you access to benefits, [discounts & programs through the National & State PTA](http://www.pta.org/members/content.cfm?ItemNumber=3409&navItemNumber=3445).
 
-# Sign Up
+## Sign Up
 
 Membership Options
 
