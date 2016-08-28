@@ -3,7 +3,7 @@ layout: default
 title: Events
 ---
 
-# Events
+# Programs and Events
 
 ## Community Building
 
