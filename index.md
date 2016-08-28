@@ -11,7 +11,7 @@ The Camelot PTA is focused on supporting our school and children by being:
 
   * directly involved in programs that benefit our children.  
   * offering suggestions when the staff needs a parental point of view.
-  * helping plan ongoing programs and over support to initiatives that bring new ideas to the school.
+  * helping plan ongoing programs and offer support to initiatives that bring new ideas to the school.
   * offering the teachers and administrators support whenever we can!
 
 **2016-2017 Leadership**
