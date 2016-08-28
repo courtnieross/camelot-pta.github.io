@@ -8,7 +8,7 @@ The Camelot Parent Teacher Association (PTA) is a non-profit volunteer organizat
 Just a few ways Camelot’s PTA supports our school  includes: funding field trips for all grade levels, planning after school educational programs, engaging the school community through social events, in-school assemblies, and classroom teaching tools.
 
 The Camelot PTA is focused on supporting our school and children by being:
-  * directly involved in programs that benefit our children.
+  * directly involved in programs that benefit our children.  
   * offering suggestions when the staff needs a parental point of view.
   * helping plan ongoing programs and over support to initiatives that bring new ideas to the school.
   * offering the teachers and administrators support whenever we can!
