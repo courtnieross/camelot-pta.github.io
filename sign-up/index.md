@@ -33,8 +33,8 @@ In order to complete registration, please complete the following:
     
     <table>
     <tr><td>
-        Select a Membership Level and "Add to Cart" to continue.
-        <input type="hidden" name="on0" value="Membership Levels">Membership Levels
+        Select a level and "Add to Cart" to continue.
+        <input type="hidden" name="on0" value="Membership Levels>Membership Level
     </td></tr>
     <tr><td>
         <select name="os0">
