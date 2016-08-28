@@ -1,4 +1,4 @@
-#navmenu ul 
+.page-header #navmenu ul 
 {
     margin: 0; 
     padding: 0; 
@@ -6,12 +6,12 @@
     list-style-image: none; 
 }
 
-#navmenu li 
+.page-header #navmenu li 
 {
     display: inline; 
 }
 
-#navmenu ul li a 
+.page-header #navmenu ul li a 
 {
     text-decoration:none;
     margin: 4px;
@@ -19,13 +19,25 @@
     color: white;
 }
 
-#navmenu ul li a:hover 
+.page-footer #keyinfo ul 
 {
-    color: DarkOrange;
+    margin: 0; 
+    padding: 0; 
+    list-style-type: none; 
+    list-style-image: none; 
 }
 
-.project-tagline
+.page-footer #keyinfo li 
 {
-    font-style: italic;
+    display: inline; 
 }
+
+.page-footer #keyinfo ul li a 
+{
+    text-decoration:none;
+    margin: 4px;
+    padding: 5px 20px 5px 20px;
+    color: white;
+}
+
 
