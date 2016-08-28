@@ -24,9 +24,8 @@ Membership Options
 | Dragon | $40 | includes 20 bingo cards |
 | Round Table | $210 | **tax deductable**, includes 40 bingo cards |
 
-
 <br>
-In order to complete registration, the following information will need to be collected:
+In order to complete registration, please complete the following:
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="hidden" name="cmd" value="_s-xclick">
