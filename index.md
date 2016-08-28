@@ -3,12 +3,6 @@ layout: default
 title: Camelot PTA
 ---
 
-## Key Information
-    * Address: 8100 Guinevere Dr, Annandale, VA 22003
-    * Main Office: 703 645 7000
-    * Absentee Line: 703 645 7011
-    * **[Become a member of the PTA today!](/sign-up)**
-
 The Camelot Parent Teacher Association (PTA) is a non-profit volunteer organization that supports the Camelot Elementary School. The PTA’s mission is to make every child’s potential a reality by engaging and empowering families and communities to advocate for all children.
 
 Just a few ways Camelot’s PTA supports our school  includes: funding field trips for all grade levels, planning after school educational programs, engaging the school community through social events, in-school assemblies, and classroom teaching tools.
