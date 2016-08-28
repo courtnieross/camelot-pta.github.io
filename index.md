@@ -8,19 +8,11 @@ The Camelot Parent Teacher Association (PTA) is a non-profit volunteer organizat
 Just a few ways the Camelot PTA supports our school includes: funding field trips for all grade levels, planning after school educational programs, engaging the school community through social events, in-school assemblies, and classroom teaching tools.
 
 The Camelot PTA is focused on supporting our school and children by being:
+
   * directly involved in programs that benefit our children.  
   * offering suggestions when the staff needs a parental point of view.
   * helping plan ongoing programs and over support to initiatives that bring new ideas to the school.
   * offering the teachers and administrators support whenever we can!
-
-2016-2017 Leadership
-  * President: Alana Cober
-  * Vice President: Membership and Education - Courtnie Ross
-  * Vice President: Ways and Means - Becky Heironimus
-  * Vice President: Social - Stacey Ferris
-  * Secretary: Christina Bass
-  * Treasurer: Nancy Montalvo
-  * [2016-17 Board and Committee Chair List](https://docs.google.com/document/d/1pFvn3beiroFeJCT0jct_GjDbyLMFTwKA8kZmMLkNiKI/edit?usp=sharing)
 
 We are focused on supporting the national PTA Values of: 
 
