@@ -5,7 +5,7 @@ title: SignUp
 
 ## Membership
 
-**Camelot Elementary is better... with You!**
+**Camelot Elementary is better...with You!**
 
 You are important to Camelot! The Camelot PTA needs your help in making a difference in the education and quality of lives of our children. Your PTA membership dues and extra contributions help fund programs, equipment and events (Link to events page) that would not be possible through the regular Camelot school budget.
 
@@ -22,7 +22,7 @@ Membership Options
 | Blue  |  $10 |          |
 | White |  $20 | includes 10 bingo cards |
 | Dragon | $40 | includes 20 bingo cards |
-| Round Table | $200 | **tax deductable**, includes 40 bingo cards |
+| Round Table | $210 | **tax deductable**, includes 40 bingo cards |
 
 
 <br>
