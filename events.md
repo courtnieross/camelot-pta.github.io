@@ -13,7 +13,7 @@ We have several community-focused events that are free or ask for a nominal fee 
 
   * International night is wonderful event celebrating the diversity of our school community. Moved to the fall this year, this completely free event is enhanced through home cooked food celebrating the rich cultures of Camelot. Volunteers provide amazing entertainment to make it a fun-filled evening.
 
-  * We also sponsor educational programs that have fees that just cover your child’s registration. Classes have included guitar, keyboard, drama and other programs to enrich our students learning. Classes run typically after school and occur once a week over a period of several months. We hope to expand these and are always looking for new ideas.
+  * We also sponsor educational programs that have fees that just cover your child's registration. Classes have included guitar, keyboard, drama and other programs to enrich our students learning. Classes run typically after school and occur once a week over a period of several months. We hope to expand these and are always looking for new ideas.
 
   * The PTA also runs an after school Cheer Program for both girls and boys to learn basic cheerleading skills. For a small fee, all participants receive a Camelot Cheer t-shirt and perform in several of our community building and fundraising events with a final performance at the Parent Teacher Basketball Game.
 
