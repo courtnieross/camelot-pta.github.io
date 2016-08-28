@@ -27,32 +27,24 @@ Membership Options
 <br>
 In order to complete registration, please complete the following:
 
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" id="paypal-form">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="XTDDBZDF9HA74">
-    <input type="hidden" name="currency_code" value="USD">
-    
-    <table>
-    <tr><td>
-        Select a Membership Level and "Add to Cart" to continue...<br>
-        <input type="hidden" name="on0" value="Membership Level">
-    </td></tr>
-    <tr><td>
-        <select name="os0">
-            <option value="Blue">Blue $10.00 USD</option>
-            <option value="White">White $20.00 USD</option>
-            <option value="Dragon">Dragon $40.00 USD</option>
-            <option value="Round Table">Round Table $210.00 USD</option>
-        </select>
-    </td></tr>
-
-    <tr><td>
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </td></tr>
-
-    </table>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="N6GREF78V8AAU">
+<table>
+<tr><td><input type="hidden" name="on0" value="Membership Levels">Membership Levels</td></tr><tr><td><select name="os0">
+	<option value="Blue">Blue $10.00 USD</option>
+	<option value="White">White $20.00 USD</option>
+	<option value="Dragon">Dragon $40.00 USD</option>
+	<option value="Round Table">Round Table $210.00 USD</option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on1" value="Phone Number:">Phone Number:</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on2" value="Child(ren) Name/Grade/Teacher:">Child(ren) Name/Grade/Teacher:</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 <br>
 To join and pay by check, please print and use [this PTA Membership form](https://docs.google.com/document/d/1nuulwGuzFHrG40YHDnyjzs-Ckt0Ofa_FSAqiCGAcONw/edit).
