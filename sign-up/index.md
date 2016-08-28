@@ -33,11 +33,15 @@ In order to complete registration, please complete the following:
     
     <table>
     <tr><td>
-        <input type="hidden" name="on0" value="Membership Levels">Membership Levels</td></tr><tr><td><select name="os0">
-	    <option value="Blue">Blue $10.00 USD</option>
-	    <option value="White">White $20.00 USD</option>
-	    <option value="Dragon">Dragon $40.00 USD</option>
-	    <option value="Round Table">Round Table $210.00 USD</option>
+        Select a Membership Level and "Add to Cart" to continue.
+        <input type="hidden" name="on0" value="Membership Levels">Membership Levels
+    </td></tr>
+    <tr><td>
+        <select name="os0">
+            <option value="Blue">Blue $10.00 USD</option>
+            <option value="White">White $20.00 USD</option>
+            <option value="Dragon">Dragon $40.00 USD</option>
+            <option value="Round Table">Round Table $210.00 USD</option>
         </select>
     </td></tr>
     </table>
