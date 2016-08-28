@@ -3,6 +3,8 @@ layout: default
 title: Involvement
 ---
 
+## Get Involved
+
 There are so many ways to get involved and participate in your children’s school experience. Come to a PTA meeting, volunteer for an event or  helping in the classroom are just a few ways to actively participate and show your children you want to be involved. 
  
 One easy place to start is to come to a PTA meeting. They are held on the last Tuesday of every month at 7PM in the school library. We will review the upcoming events and opportunities to get involved and the Principal always shares the latest school news. We will also review community and legislative highlights too. It’s a great way to stay up to date with the latest school news and happenings.
