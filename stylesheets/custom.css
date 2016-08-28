@@ -1,3 +1,26 @@
+footer
+{
+    padding: 1em;
+    margin-top: -1em;
+}
+
+footer h3
+{
+    color: #275da1;
+    font-size: 1.25em;
+}
+
+footer h2
+{
+    color: #2879d0;
+    font-size: 1.5em;
+}
+
+header
+{
+    padding: 1em;
+}
+
 .page-header #navmenu ul 
 {
     margin: 0; 
