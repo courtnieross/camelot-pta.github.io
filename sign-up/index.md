@@ -28,32 +28,25 @@ Membership Options
 <br>
 In order to complete registration, the following information will need to be collected:
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="charset" value="utf-8">
-    <input type="hidden" name="hosted_button_id" value="">
-    <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="on0" value="Members">Membership Level<br>
-        <select name="os0">
-            <option value="Blue">Blue $10.00 USD</option>
-            <option value="White">White $20.00 USD</option> 
-            <option value="Dragon">Dragon $40.00 USD</option> 
-            <option value="Round Table">Round Table $210.00 USD</option> 
+    <input type="hidden" name="hosted_button_id" value="XTDDBZDF9HA74">
+    
+    <table>
+    <tr><td>
+        <input type="hidden" name="on0" value="Membership Levels">Membership Levels</td></tr><tr><td><select name="os0">
+	    <option value="Blue">Blue $10.00 USD</option>
+	    <option value="White">White $20.00 USD</option>
+	    <option value="Dragon">Dragon $40.00 USD</option>
+	    <option value="Round Table">Round Table $210.00 USD</option>
         </select>
-    <br>
-    <input type="text" name="on1" value="name">Your Name<br>
-    <input type="text" name="on2" value="Phone Number">Phone Number<br>
-    <input type="text" name="on3" value="email">Email Address<br>
-    <input type="text" name="on4" value="Student name(s)">Student name(s)<br>
-    <input type="text" name="on5" value="Teacher name(s)">Teacher name(s)<br>
-    <input type="checkbox" name="on6" value="Receipt">Request Receipt for tax purposes<br>
-    <input type="checkbox" name="on6" value="Volunteer">Contact me for volunteer opportunities<br>
-    <input type="checkbox" name="on6" value="Contact">Contact me for backing/donating food activities<br>
+    </td></tr>
+    </table>
 
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0"  name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <input type="hidden" name="currency_code" value="USD">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
     <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
 
 <br>
 To join and pay by check, please print and use [this PTA Membership form](https://docs.google.com/document/d/1nuulwGuzFHrG40YHDnyjzs-Ckt0Ofa_FSAqiCGAcONw/edit).
