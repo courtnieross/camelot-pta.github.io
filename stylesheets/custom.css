@@ -19,6 +19,11 @@
     color: white;
 }
 
+.page-footer h3, h2 
+{
+    display: inline;
+}
+
 .page-footer #keyinfo ul 
 {
     margin: 0; 
