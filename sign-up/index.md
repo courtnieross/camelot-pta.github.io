@@ -30,10 +30,11 @@ In order to complete registration, please complete the following:
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="XTDDBZDF9HA74">
+    <input type="hidden" name="currency_code" value="USD">
     
     <table>
     <tr><td>
-        Select a level and "Add to Cart" to continue. <br>
+        Select a level and "Add to Cart" to continue...<br>
         <input type="hidden" name="on0" value="Membership Level">Membership Level
     </td></tr>
     <tr><td>
@@ -44,11 +45,13 @@ In order to complete registration, please complete the following:
             <option value="Round Table">Round Table $210.00 USD</option>
         </select>
     </td></tr>
-    </table>
 
-    <input type="hidden" name="currency_code" value="USD">
+    <tr><td>
     <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
     <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    </td></tr>
+
+    </table>
 </form>
 
 <br>
