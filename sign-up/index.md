@@ -27,15 +27,15 @@ Membership Options
 <br>
 In order to complete registration, please complete the following:
 
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" id="paypal-form">
     <input type="hidden" name="cmd" value="_s-xclick">
     <input type="hidden" name="hosted_button_id" value="XTDDBZDF9HA74">
     <input type="hidden" name="currency_code" value="USD">
     
     <table>
     <tr><td>
-        Select a level and "Add to Cart" to continue...<br>
-        <input type="hidden" name="on0" value="Membership Level">Membership Level
+        Select a Membership Level and "Add to Cart" to continue...<br>
+        <input type="hidden" name="on0" value="Membership Level">
     </td></tr>
     <tr><td>
         <select name="os0">
