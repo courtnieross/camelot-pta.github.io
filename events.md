@@ -3,8 +3,6 @@ layout: default
 title: Events
 ---
 
-# Programs and Events
-
 ## Community Building
 
 We have several community-focused events that are free or ask for a nominal fee in order to cover costs to allow all our families to participate.
