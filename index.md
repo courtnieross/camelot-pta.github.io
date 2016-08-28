@@ -3,45 +3,41 @@ layout: default
 title: Camelot PTA
 ---
 
-# Welcome
-
 ## Key Information
     * Address: 8100 Guinevere Dr, Annandale, VA 22003
     * Main Office: 703 645 7000
     * Absentee Line: 703 645 7011
+    * **[Become a member of the PTA today!](/sign-up)**
 
-**[Become a member of the PTA today!](/sign-up)**
+The Camelot Parent Teacher Association (PTA) is a non-profit volunteer organization that supports the Camelot Elementary School. The PTA’s mission is to make every child’s potential a reality by engaging and empowering families and communities to advocate for all children.
 
-## Questions
+Just a few ways Camelot’s PTA supports our school  includes: funding field trips for all grade levels, planning after school educational programs, engaging the school community through social events, in-school assemblies, and classroom teaching tools.
 
-Figuring out a new school and new school system can be a daunting task. Please feel free to reach out and ask us a question about Camelot Elementary School or the Fairfax County Public School system. We will do our best to point you in the right direction.
+The Camelot PTA is focused on supporting our school and children by being:
+  * directly involved in programs that benefit our children.
+  * offering suggestions when the staff needs a parental point of view.
+  * helping plan ongoing programs and over support to initiatives that bring new ideas to the school.
+  * offering the teachers and administrators support whenever we can!
 
-  * [What does the PTA do for Camelot?](/pta)
-  * [What types of events does the PTA host?](/events)
-  * [Who are members?](/board-and-committees).
-  * [How do I get involved?](/participate)
-  * [How do I sign up?](/sign-up)
+2016-2017 Leadership
+  * President: Alana Cober
+  * Vice President: Membership and Education - Courtnie Ross
+  * Vice President: Ways and Means - Becky Heironimus
+  * Vice President: Social - Stacey Ferris
+  * Secretary: Christina Bass
+  * Treasurer: Nancy Montalvo
+  * [2016-17 Board and Committee Chair List](https://docs.google.com/document/d/1pFvn3beiroFeJCT0jct_GjDbyLMFTwKA8kZmMLkNiKI/edit?usp=sharing)
 
-If you don’t see the question and answer you’re looking for below, please <a href="mailto:webmaster@camelotpta.org?Subject=Website%20Question">ask us</a>!
+We are focused on supporting the national PTA Values of: 
 
----
+  * **Collaboration**: We will work in partnership with a wide array of individuals and organizations to broaden and enhance our ability to serve and advocate for all children and families.
 
-### Parent Info
-  * [FCPS Website](http://www.fcps.edu/CamelotES/)
-  * [Student Handbook](https://drive.google.com/file/d/0B08CHuPjOEKWdXBvVHg5UFNuYlE/view)
-  * [PTA Minutes](https://drive.google.com/folderview?id=0B08CHuPjOEKWRndSNDQ5V1BPS2c&usp=sharing)
-  * Membership Directory: **Coming soon**
-  * [National PTA](http://www.pta.org)
-  * [VA PTA](http://vapta.org)
-  * [Amazon Smile Account](http://smile.amazon.com) 
-     * It just got even easier to help Camelot with your Amazon purchases, follow the link and select the "Supporting" link at the very top. 
-     * Search for "Camelot Elementary School PTA" and select. Make sure you select the one in Annandale, VA. 
-     * Once you set this up, you will be reminded on your Amazon purchases or shop directly from the Amazon Smiles site. You can also use this [link](http://www.amazon.com/?&tag=capt076-20&ref-refURL=http%3A%2F%2Fwww.camelotpta.org%2F) for shopping
+  * **Commitment**: We are dedicated to children’s educational success, health, and well-being through strong family and community engagement, while remaining accountable to the principles upon which our association was founded.
 
+  * **Diversity**: We acknowledge the potential of everyone without regard, including but not limited to: age, culture, economic status, educational background, ethnicity, gender, geographic location, legal status, marital status, mental ability, national origin, organizational position, parental status, physical ability, political philosophy, race, religion, sexual orientation, and work experience.
 
-#### Social Media
-  * [Facebook](http://www.facebook.com/camelotpta)
-  * [Twitter](http://twitter.com/camelotPTA)
-  * [Calendar](https://calendar.google.com/calendar/embed?src=camelot.elementary.pta%40gmail.com&ctz=America/New_York)
+  * **Respect**: We value the individual contributions of members, employees, volunteers, and partners as we work collaboratively to achieve our association’s goals.
 
-**Please join our [Facebook Page](http://www.facebook.com/camelotpta)!**
+  * **Accountability**: All members, volunteers, and partners have a shared responsibility to align their efforts toward the achievement of our association’s strategic initiatives.
+
+It is through ongoing involvement where the more of us that are involved the more we can get done! Please consider [joining the PTA](/sign-up) and becoming involved in continuing to make Camelot great!
