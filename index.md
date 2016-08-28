@@ -14,15 +14,6 @@ The Camelot PTA is focused on supporting our school and children by being:
   * helping plan ongoing programs and offer support to initiatives that bring new ideas to the school.
   * offering the teachers and administrators support whenever we can!
 
-**2016-2017 Leadership**
-
-  * President: Alana Cober
-  * Vice President: Membership and Education - Courtnie Ross
-  * Vice President: Ways and Means - Becky Heironimus
-  * Vice President: Social - Stacey Ferris
-  * Secretary: Christina Bass
-  * Treasurer: Nancy Montalvo
-  * [2016-17 Board and Committee Chair List](https://docs.google.com/document/d/1pFvn3beiroFeJCT0jct_GjDbyLMFTwKA8kZmMLkNiKI/edit?usp=sharing)
 
 We are focused on supporting the national PTA Values of: 
 
