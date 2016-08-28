@@ -3,9 +3,17 @@ layout: default
 title: SignUp
 ---
 
-# Sign Up
+# Membership
 
-## Membership
+**Camelot Elementary is better... with You!**
+
+You are important to Camelot! The Camelot PTA needs your help in making a difference in the education and quality of lives of our children. Your PTA membership dues and extra contributions help fund programs, equipment and events (Link to events page) that would not be possible through the regular Camelot school budget.
+
+But the PTA is about more than just activities and programs. By joining the Camelot PTA, you also show your children and the community that you want to take an active role in their education and school life. So join today and help us make Camelot a better school.
+
+Your PTA membership card also gives you access to benefits, [discounts & programs through the National & State PTA](http://www.pta.org/members/content.cfm?ItemNumber=3409&navItemNumber=3445).
+
+# Sign Up
 
 Membership Options
 
@@ -14,7 +22,7 @@ Membership Options
 | Blue  |  $10 |          |
 | White |  $20 | includes 10 bingo cards |
 | Dragon | $40 | includes 20 bingo cards |
-| Camelot Flame | $200 | **tax deductable**, includes 20 bingo cards |
+| Round Table | $200 | **tax deductable**, includes 40 bingo cards |
 
 
 <br>
@@ -30,7 +38,7 @@ In order to complete registration, the following information will need to be col
             <option value="Blue">Blue $10.00 USD</option>
             <option value="White">White $20.00 USD</option> 
             <option value="Dragon">Dragon $40.00 USD</option> 
-            <option value="Flame">Flame $200.00 USD</option> 
+            <option value="Round Table">Round Table $210.00 USD</option> 
         </select>
     <br>
     <input type="text" name="on1" value="name">Your Name<br>
